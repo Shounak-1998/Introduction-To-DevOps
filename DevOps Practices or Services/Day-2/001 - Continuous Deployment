@@ -1,0 +1,13 @@
+Continuous Deployment
+
+Operation Team-->Auto Script-->Test Environment-->Testing-->Public/General Availability
+
+CI
+Releases the Software changes
+Staging
+Pre-production environment
+
+CD
+deploys the tested changes
+Production environments
+Quickly accessible
