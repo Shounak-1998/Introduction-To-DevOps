@@ -1,0 +1,26 @@
+Monioring, Logging and Feedback
+
+Monitoring
+  Track and collect data
+    performance metric
+    error frequency
+    resource utiliztion
+    tools:-Prometheus Grafana
+Observe performance
+Infrastructure
+Logging
+  Recording actions
+  Events and errors
+  Logging tools
+  tools:-stack,splunk,fluentd,graylog,sumologic
+  Software performance
+  Software service
+Feedback
+  user surveys
+  Bugs report
+  Peer reviews
+  Team discussion
+  tools:-slack,jira,github,uservoice,trello
+Userinput 
+Team member
+stakeholder
