@@ -1,0 +1,5 @@
+What is Ansible
+
+Anisble is an open-source software programming, configuration management, and application-deployment tool enabling infrastructure as code. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows (Wikipedia)
+
+In Simple words:Anisble is a free automation tool that can automate IT tasks on local machine where it is running and on remoter server.
